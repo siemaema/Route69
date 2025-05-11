@@ -1,0 +1,463 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "surname": "Admin",
+      "email": "admin",
+      "password": "admin",
+      "phone": "123456789",
+      "adress": {
+        "street": "ul. Kwiatowa 1",
+        "city": "Warszawa",
+        "postalCode": "00-001"
+      },
+      "paymentData": {
+        "cardNumber": "1234-5678-9012-3456",
+        "expirationDate": "12/25",
+        "cvv": "123"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "amelka",
+      "surname": "kaczmarek",
+      "email": "ak@example.com",
+      "password": "123456",
+      "phone": "123456789",
+      "adress": {
+        "street": "ul. Kwiatowa 1",
+        "city": "Warszawa",
+        "postalCode": "00-001"
+      },
+      "paymentData": {
+        "cardNumber": "1234-5678-9012-3456",
+        "expirationDate": "12/25",
+        "cvv": "123"
+      },
+      "role": "User"
+    },
+    {
+      "id": "4af2",
+      "email": "w@w.pl",
+      "password": "123456",
+      "name": "siema",
+      "surname": "ema"
+    },
+    {
+      "id": "1480",
+      "email": "ak@x.pl",
+      "password": "123456",
+      "name": "amelka",
+      "surname": "kratiuk"
+    },
+    {
+      "id": "8163",
+      "email": "test",
+      "password": "test",
+      "name": "test",
+      "surname": "test",
+      "cart": []
+    },
+    {
+      "id": "89a2",
+      "email": "test123",
+      "password": "1234",
+      "name": "test123",
+      "surname": "test",
+      "role": "user",
+      "adress": {
+        "street": "",
+        "city": "",
+        "postalcode": ""
+      },
+      "phone": "",
+      "paymentData": {
+        "cardNumber": "",
+        "expirationDate": "",
+        "cvv": ""
+      }
+    },
+    {
+      "id": "aae7",
+      "email": "qwe",
+      "password": "123",
+      "name": "siema",
+      "surname": "ema",
+      "role": "user",
+      "adress": {
+        "street": "",
+        "city": "",
+        "postalcode": ""
+      },
+      "phone": "",
+      "paymentData": {
+        "cardNumber": "",
+        "expirationDate": "",
+        "cvv": ""
+      },
+      "cart": [
+        {}
+      ]
+    },
+    {
+      "id": "a545",
+      "email": "user",
+      "password": "user",
+      "name": "user",
+      "surname": "user",
+      "role": "user",
+      "adress": {
+        "street": "",
+        "city": "",
+        "postalcode": ""
+      },
+      "phone": "",
+      "paymentData": {
+        "cardNumber": "",
+        "expirationDate": "",
+        "cvv": ""
+      },
+      "cart": [
+        {
+          "_id": 4,
+          "title": "Bazowe ProAuto",
+          "price": 184,
+          "promoPrice": null,
+          "inStock": false,
+          "quantity": 4,
+          "isBanner": false,
+          "isBestseller": true,
+          "rating": 3.8,
+          "comments": [
+            {
+              "author": "Tomek",
+              "text": "Świetna jakość!",
+              "date": "2024-12-23"
+            },
+            {
+              "author": "Kasia",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2024-12-09"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery2",
+          "subcategory": "bazowe",
+          "tags": [
+            "eko",
+            "do domowego użytku"
+          ],
+          "addedAt": "2025-01-15",
+          "manufacturer": "ColorX",
+          "sku": "LAK-0004",
+          "id": "810c",
+          "totalItemPrice": 736
+        },
+        {
+          "_id": 5,
+          "title": "Bazowe SprayFix",
+          "price": 178,
+          "promoPrice": null,
+          "inStock": true,
+          "quantity": 1,
+          "isBanner": true,
+          "isBestseller": false,
+          "rating": 4.2,
+          "comments": [
+            {
+              "author": "Janek",
+              "text": "Cena adekwatna do jakości.",
+              "date": "2025-03-05"
+            },
+            {
+              "author": "Tomek",
+              "text": "Cena adekwatna do jakości.",
+              "date": "2024-11-15"
+            },
+            {
+              "author": "Ola",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2024-11-01"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "bazowe",
+          "tags": [
+            "eko",
+            "dla warsztatów",
+            "nowość"
+          ],
+          "addedAt": "2024-12-10",
+          "manufacturer": "SprayFix",
+          "sku": "LAK-0005",
+          "id": "44da",
+          "totalItemPrice": 178
+        },
+        {
+          "_id": 2,
+          "title": "Akrylowe ",
+          "price": 88,
+          "promoPrice": null,
+          "inStock": true,
+          "quantity": 2,
+          "isBanner": true,
+          "isBestseller": true,
+          "rating": 4.2,
+          "comments": [
+            {
+              "author": "Tomek",
+              "text": "Świetna jakość!",
+              "date": "2025-01-08"
+            }
+          ],
+          "description": "Akrylowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "akrylowe",
+          "tags": [
+            "matowe"
+          ],
+          "addedAt": "2024-08-01",
+          "manufacturer": "ProAuto",
+          "sku": "LAK-0002",
+          "id": "1497",
+          "totalItemPrice": 176
+        },
+        {
+          "_id": 3,
+          "title": "Bazowe ProAuto",
+          "price": 104,
+          "promoPrice": null,
+          "inStock": false,
+          "quantity": 1,
+          "isBanner": false,
+          "isBestseller": false,
+          "rating": 4.2,
+          "comments": [
+            {
+              "author": "Ola",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2025-03-22"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "bazowe",
+          "tags": [
+            "eko",
+            "dla warsztatów",
+            "błyszczące"
+          ],
+          "addedAt": "2025-04-10",
+          "manufacturer": "SprayFix",
+          "sku": "LAK-0003",
+          "id": "f617",
+          "totalItemPrice": 104
+        }
+      ]
+    },
+    {
+      "id": "02b4",
+      "email": "jakos",
+      "password": "leci",
+      "name": "eqw",
+      "surname": "qwe",
+      "role": "user",
+      "adress": {
+        "street": "",
+        "city": "",
+        "postalcode": ""
+      },
+      "phone": "",
+      "paymentData": {
+        "cardNumber": "",
+        "expirationDate": "",
+        "cvv": ""
+      },
+      "cart": [
+        {
+          "_id": 4,
+          "title": "Bazowe ProAuto",
+          "price": 184,
+          "promoPrice": null,
+          "inStock": false,
+          "quantity": 2,
+          "isBanner": false,
+          "isBestseller": true,
+          "rating": 3.8,
+          "comments": [
+            {
+              "author": "Tomek",
+              "text": "Świetna jakość!",
+              "date": "2024-12-23"
+            },
+            {
+              "author": "Kasia",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2024-12-09"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery2",
+          "subcategory": "bazowe",
+          "tags": [
+            "eko",
+            "do domowego użytku"
+          ],
+          "addedAt": "2025-01-15",
+          "manufacturer": "ColorX",
+          "sku": "LAK-0004",
+          "totalItemPrice": 368
+        },
+        {
+          "_id": 2,
+          "title": "Akrylowe ",
+          "price": 88,
+          "promoPrice": null,
+          "inStock": true,
+          "quantity": 1,
+          "isBanner": true,
+          "isBestseller": true,
+          "rating": 4.2,
+          "comments": [
+            {
+              "author": "Tomek",
+              "text": "Świetna jakość!",
+              "date": "2025-01-08"
+            }
+          ],
+          "description": "Akrylowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "akrylowe",
+          "tags": [
+            "matowe"
+          ],
+          "addedAt": "2024-08-01",
+          "manufacturer": "ProAuto",
+          "sku": "LAK-0002",
+          "totalItemPrice": 88
+        },
+        {
+          "_id": 5,
+          "title": "Bazowe SprayFix",
+          "price": 178,
+          "promoPrice": null,
+          "inStock": true,
+          "quantity": 1,
+          "isBanner": true,
+          "isBestseller": false,
+          "rating": 4.2,
+          "comments": [
+            {
+              "author": "Janek",
+              "text": "Cena adekwatna do jakości.",
+              "date": "2025-03-05"
+            },
+            {
+              "author": "Tomek",
+              "text": "Cena adekwatna do jakości.",
+              "date": "2024-11-15"
+            },
+            {
+              "author": "Ola",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2024-11-01"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "bazowe",
+          "tags": [
+            "eko",
+            "dla warsztatów",
+            "nowość"
+          ],
+          "addedAt": "2024-12-10",
+          "manufacturer": "SprayFix",
+          "sku": "LAK-0005",
+          "totalItemPrice": 178
+        },
+        {
+          "_id": 3,
+          "title": "Bazowe ProAuto",
+          "price": 104,
+          "promoPrice": null,
+          "inStock": false,
+          "quantity": 2,
+          "isBanner": false,
+          "isBestseller": false,
+          "rating": 4.2,
+          "comments": [
+            {
+              "author": "Ola",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2025-03-22"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "bazowe",
+          "tags": [
+            "eko",
+            "dla warsztatów",
+            "błyszczące"
+          ],
+          "addedAt": "2025-04-10",
+          "manufacturer": "SprayFix",
+          "sku": "LAK-0003",
+          "totalItemPrice": 208
+        },
+        {
+          "_id": 6,
+          "title": "Bazowe 3M",
+          "price": 83,
+          "promoPrice": 77,
+          "inStock": true,
+          "quantity": 1,
+          "isBanner": false,
+          "isBestseller": false,
+          "rating": 3.7,
+          "comments": [
+            {
+              "author": "Janek",
+              "text": "Polecam każdemu lakiernikowi.",
+              "date": "2025-02-04"
+            },
+            {
+              "author": "Ola",
+              "text": "Bardzo dobra wydajność.",
+              "date": "2024-11-18"
+            },
+            {
+              "author": "Janek",
+              "text": "Spełnia oczekiwania.",
+              "date": "2025-04-06"
+            }
+          ],
+          "description": "Bazowe produkt kategorii lakiery.",
+          "image": "/p1.png",
+          "category": "lakiery",
+          "subcategory": "bazowe",
+          "tags": [
+            "błyszczące"
+          ],
+          "addedAt": "2025-02-20",
+          "manufacturer": "SprayFix",
+          "sku": "LAK-0006",
+          "id": "af90",
+          "totalItemPrice": 77
+        }
+      ]
+    }
+  ]
+}
