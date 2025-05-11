@@ -1,0 +1,2115 @@
+{
+    "products": [
+      {
+        "_id": 1,
+        "title": "Akrylowe ColorX",
+        "price": 118,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 23,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.7,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-09"
+          },
+          {
+            "author": "Tomek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2024-11-08"
+          },
+          {
+            "author": "Ola",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-01-28"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "akrylowe",
+        "tags": [
+          "eko",
+          "profesjonalne",
+          "do domowego użytku"
+        ],
+        "addedAt": "2024-05-11",
+        "manufacturer": "3M",
+        "sku": "LAK-0001"
+      },
+      {
+        "_id": 2,
+        "title": "Akrylowe ",
+        "price": 88,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 5,
+        "isBanner": true,
+        "isBestseller": true,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-08"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "akrylowe",
+        "tags": [
+          "matowe"
+        ],
+        "addedAt": "2024-08-01",
+        "manufacturer": "ProAuto",
+        "sku": "LAK-0002"
+      },
+      {
+        "_id": 3,
+        "title": "Bazowe ProAuto",
+        "price": 104,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 24,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-03-22"
+          }
+        ],
+        "description": "Bazowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "bazowe",
+        "tags": [
+          "eko",
+          "dla warsztatów",
+          "błyszczące"
+        ],
+        "addedAt": "2025-04-10",
+        "manufacturer": "SprayFix",
+        "sku": "LAK-0003"
+      },
+      {
+        "_id": 4,
+        "title": "Bazowe ProAuto",
+        "price": 184,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 8,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.8,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Świetna jakość!",
+            "date": "2024-12-23"
+          },
+          {
+            "author": "Kasia",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-12-09"
+          }
+        ],
+        "description": "Bazowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery2",
+        "subcategory": "bazowe",
+        "tags": [
+          "eko",
+          "do domowego użytku"
+        ],
+        "addedAt": "2025-01-15",
+        "manufacturer": "ColorX",
+        "sku": "LAK-0004"
+      },
+      {
+        "_id": 5,
+        "title": "Bazowe SprayFix",
+        "price": 178,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 7,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-03-05"
+          },
+          {
+            "author": "Tomek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2024-11-15"
+          },
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-01"
+          }
+        ],
+        "description": "Bazowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "bazowe",
+        "tags": [
+          "eko",
+          "dla warsztatów",
+          "nowość"
+        ],
+        "addedAt": "2024-12-10",
+        "manufacturer": "SprayFix",
+        "sku": "LAK-0005"
+      },
+      {
+        "_id": 6,
+        "title": "Bazowe 3M",
+        "price": 83,
+        "promoPrice": 77,
+        "inStock": true,
+        "quantity": 15,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.7,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-02-04"
+          },
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-18"
+          },
+          {
+            "author": "Janek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-04-06"
+          }
+        ],
+        "description": "Bazowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "bazowe",
+        "tags": [
+          "błyszczące"
+        ],
+        "addedAt": "2025-02-20",
+        "manufacturer": "SprayFix",
+        "sku": "LAK-0006"
+      },
+      {
+        "_id": 7,
+        "title": "Bazowe SprayFix",
+        "price": 77,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 7,
+        "isBanner": true,
+        "isBestseller": true,
+        "rating": 4.8,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-03-24"
+          },
+          {
+            "author": "Marek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-04-22"
+          }
+        ],
+        "description": "Bazowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "bazowe",
+        "tags": [
+          "szybkoschnące",
+          "profesjonalne",
+          "dla warsztatów"
+        ],
+        "addedAt": "2024-11-14",
+        "manufacturer": "Route69",
+        "sku": "LAK-0007"
+      },
+      {
+        "_id": 8,
+        "title": "Metaliczne ProAuto",
+        "price": 134,
+        "promoPrice": 112,
+        "inStock": true,
+        "quantity": 22,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.0,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Świetna jakość!",
+            "date": "2025-02-02"
+          }
+        ],
+        "description": "Metaliczne produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "metaliczne",
+        "tags": [
+          "eko",
+          "szybkoschnące"
+        ],
+        "addedAt": "2024-12-11",
+        "manufacturer": "ProAuto",
+        "sku": "LAK-0008"
+      },
+      {
+        "_id": 9,
+        "title": "Metaliczne 3M",
+        "price": 79,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 8,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-03-06"
+          },
+          {
+            "author": "Ola",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-02-24"
+          },
+          {
+            "author": "Marek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2024-11-09"
+          }
+        ],
+        "description": "Metaliczne produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "metaliczne",
+        "tags": [
+          "eko"
+        ],
+        "addedAt": "2024-08-06",
+        "manufacturer": "Route69",
+        "sku": "LAK-0009"
+      },
+      {
+        "_id": 10,
+        "title": "Metaliczne SprayFix",
+        "price": 167,
+        "promoPrice": 152,
+        "inStock": true,
+        "quantity": 16,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.9,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2024-11-02"
+          },
+          {
+            "author": "Kasia",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-02-11"
+          },
+          {
+            "author": "Kasia",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-02-02"
+          }
+        ],
+        "description": "Metaliczne produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "metaliczne",
+        "tags": [
+          "błyszczące",
+          "nowość",
+          "dla warsztatów"
+        ],
+        "addedAt": "2024-10-18",
+        "manufacturer": "ColorX",
+        "sku": "LAK-0010"
+      },
+      {
+        "_id": 11,
+        "title": "Perłowe Route69",
+        "price": 104,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 12,
+        "isBanner": true,
+        "isBestseller": true,
+        "rating": 4.4,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-07"
+          },
+          {
+            "author": "Janek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-17"
+          }
+        ],
+        "description": "Perłowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "perłowe",
+        "tags": [
+          "nowość"
+        ],
+        "addedAt": "2025-02-23",
+        "manufacturer": "ColorX",
+        "sku": "LAK-0011"
+      },
+      {
+        "_id": 12,
+        "title": "Perłowe SprayFix",
+        "price": 107,
+        "promoPrice": 99,
+        "inStock": true,
+        "quantity": 0,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.3,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-03-26"
+          },
+          {
+            "author": "Ola",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2024-12-05"
+          },
+          {
+            "author": "Kasia",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-10"
+          }
+        ],
+        "description": "Perłowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "perłowe",
+        "tags": [
+          "matowe",
+          "błyszczące"
+        ],
+        "addedAt": "2024-11-08",
+        "manufacturer": "ProAuto",
+        "sku": "LAK-0012"
+      },
+      {
+        "_id": 13,
+        "title": "Perłowe ColorX",
+        "price": 112,
+        "promoPrice": 95,
+        "inStock": true,
+        "quantity": 21,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.5,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-02-21"
+          }
+        ],
+        "description": "Perłowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "perłowe",
+        "tags": [
+          "matowe"
+        ],
+        "addedAt": "2024-08-06",
+        "manufacturer": "ColorX",
+        "sku": "LAK-0013"
+      },
+      {
+        "_id": 14,
+        "title": "Perłowe ColorX",
+        "price": 72,
+        "promoPrice": 63,
+        "inStock": true,
+        "quantity": 18,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-04-13"
+          }
+        ],
+        "description": "Perłowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "perłowe",
+        "tags": [
+          "nowość",
+          "błyszczące",
+          "do domowego użytku"
+        ],
+        "addedAt": "2025-01-24",
+        "manufacturer": "3M",
+        "sku": "LAK-0014"
+      },
+      {
+        "_id": 15,
+        "title": "Perłowe ProAuto",
+        "price": 147,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.7,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Spełnia oczekiwania.",
+            "date": "2024-12-23"
+          },
+          {
+            "author": "Tomek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2024-11-21"
+          },
+          {
+            "author": "Janek",
+            "text": "Świetna jakość!",
+            "date": "2025-04-02"
+          }
+        ],
+        "description": "Perłowe produkt kategorii lakiery.",
+        "image": "/p1.png",
+        "category": "lakiery",
+        "subcategory": "perłowe",
+        "tags": [
+          "szybkoschnące",
+          "do domowego użytku"
+        ],
+        "addedAt": "2024-10-30",
+        "manufacturer": "ColorX",
+        "sku": "LAK-0015"
+      },
+      {
+        "_id": 16,
+        "title": "Epoksydowe ProAuto",
+        "price": 33,
+        "promoPrice": 16,
+        "inStock": false,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-04-17"
+          },
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-03-17"
+          }
+        ],
+        "description": "Epoksydowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "epoksydowe",
+        "tags": [
+          "profesjonalne"
+        ],
+        "addedAt": "2025-03-26",
+        "manufacturer": "SprayFix",
+        "sku": "POD-0016"
+      },
+      {
+        "_id": 17,
+        "title": "Epoksydowe SprayFix",
+        "price": 68,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 10,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-03-09"
+          },
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-16"
+          }
+        ],
+        "description": "Epoksydowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "epoksydowe",
+        "tags": [
+          "dla warsztatów",
+          "nowość",
+          "profesjonalne"
+        ],
+        "addedAt": "2024-07-30",
+        "manufacturer": "3M",
+        "sku": "POD-0017"
+      },
+      {
+        "_id": 18,
+        "title": "Epoksydowe SprayFix",
+        "price": 126,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 20,
+        "isBanner": true,
+        "isBestseller": true,
+        "rating": 4.0,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-01-14"
+          },
+          {
+            "author": "Ola",
+            "text": "Świetna jakość!",
+            "date": "2025-02-13"
+          }
+        ],
+        "description": "Epoksydowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "epoksydowe",
+        "tags": [
+          "szybkoschnące",
+          "eko",
+          "błyszczące"
+        ],
+        "addedAt": "2024-07-29",
+        "manufacturer": "ColorX",
+        "sku": "POD-0018"
+      },
+      {
+        "_id": 19,
+        "title": "Akrylowe ProAuto",
+        "price": 94,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 14,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-04-09"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "akrylowe",
+        "tags": [
+          "nowość"
+        ],
+        "addedAt": "2025-02-13",
+        "manufacturer": "ProAuto",
+        "sku": "POD-0019"
+      },
+      {
+        "_id": 20,
+        "title": "Akrylowe 3M",
+        "price": 95,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 9,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.9,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Świetna jakość!",
+            "date": "2024-11-07"
+          },
+          {
+            "author": "Kasia",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-02-19"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "akrylowe",
+        "tags": [
+          "do domowego użytku"
+        ],
+        "addedAt": "2024-11-18",
+        "manufacturer": "ColorX",
+        "sku": "POD-0020"
+      },
+      {
+        "_id": 21,
+        "title": "Akrylowe Route69",
+        "price": 189,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 9,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.6,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-03-05"
+          },
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-01-24"
+          },
+          {
+            "author": "Kasia",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-03-14"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "akrylowe",
+        "tags": [
+          "do domowego użytku",
+          "eko",
+          "profesjonalne"
+        ],
+        "addedAt": "2024-11-15",
+        "manufacturer": "ColorX",
+        "sku": "POD-0021"
+      },
+      {
+        "_id": 22,
+        "title": "Akrylowe ColorX",
+        "price": 127,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 4,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.8,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-17"
+          },
+          {
+            "author": "Tomek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-19"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "akrylowe",
+        "tags": [
+          "nowość",
+          "szybkoschnące"
+        ],
+        "addedAt": "2024-09-07",
+        "manufacturer": "ProAuto",
+        "sku": "POD-0022"
+      },
+      {
+        "_id": 23,
+        "title": "Akrylowe ColorX",
+        "price": 52,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 17,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.6,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Świetna jakość!",
+            "date": "2024-11-26"
+          }
+        ],
+        "description": "Akrylowe produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "akrylowe",
+        "tags": [
+          "szybkoschnące",
+          "do domowego użytku",
+          "błyszczące"
+        ],
+        "addedAt": "2025-04-10",
+        "manufacturer": "SprayFix",
+        "sku": "POD-0023"
+      },
+      {
+        "_id": 24,
+        "title": "Szybkoschnące SprayFix",
+        "price": 65,
+        "promoPrice": 46,
+        "inStock": true,
+        "quantity": 12,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.8,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-09"
+          }
+        ],
+        "description": "Szybkoschnące produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "szybkoschnące",
+        "tags": [
+          "dla warsztatów"
+        ],
+        "addedAt": "2025-04-30",
+        "manufacturer": "ColorX",
+        "sku": "POD-0024"
+      },
+      {
+        "_id": 25,
+        "title": "Szybkoschnące ProAuto",
+        "price": 128,
+        "promoPrice": 111,
+        "inStock": true,
+        "quantity": 1,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 3.8,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-01-13"
+          }
+        ],
+        "description": "Szybkoschnące produkt kategorii podkłady.",
+        "image": "/p1.png",
+        "category": "podkłady",
+        "subcategory": "szybkoschnące",
+        "tags": [
+          "błyszczące",
+          "nowość"
+        ],
+        "addedAt": "2024-05-17",
+        "manufacturer": "Route69",
+        "sku": "POD-0025"
+      },
+      {
+        "_id": 26,
+        "title": "Gruboziarniste ProAuto",
+        "price": 79,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.7,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-18"
+          },
+          {
+            "author": "Kasia",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-04-12"
+          }
+        ],
+        "description": "Gruboziarniste produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "gruboziarniste",
+        "tags": [
+          "eko",
+          "profesjonalne"
+        ],
+        "addedAt": "2024-05-05",
+        "manufacturer": "SprayFix",
+        "sku": "PAS-0026"
+      },
+      {
+        "_id": 27,
+        "title": "Gruboziarniste 3M",
+        "price": 179,
+        "promoPrice": 162,
+        "inStock": true,
+        "quantity": 14,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-03-14"
+          },
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-14"
+          },
+          {
+            "author": "Ola",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-16"
+          }
+        ],
+        "description": "Gruboziarniste produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "gruboziarniste",
+        "tags": [
+          "dla warsztatów"
+        ],
+        "addedAt": "2024-09-08",
+        "manufacturer": "ColorX",
+        "sku": "PAS-0027"
+      },
+      {
+        "_id": 28,
+        "title": "Gruboziarniste 3M",
+        "price": 193,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 3,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.9,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-03-09"
+          }
+        ],
+        "description": "Gruboziarniste produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "gruboziarniste",
+        "tags": [
+          "nowość",
+          "dla warsztatów",
+          "matowe"
+        ],
+        "addedAt": "2025-04-13",
+        "manufacturer": "ColorX",
+        "sku": "PAS-0028"
+      },
+      {
+        "_id": 29,
+        "title": "Średnie 3M",
+        "price": 140,
+        "promoPrice": 126,
+        "inStock": false,
+        "quantity": 16,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 3.5,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-03-09"
+          }
+        ],
+        "description": "Średnie produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "średnie",
+        "tags": [
+          "matowe"
+        ],
+        "addedAt": "2024-05-20",
+        "manufacturer": "ColorX",
+        "sku": "PAS-0029"
+      },
+      {
+        "_id": 30,
+        "title": "Średnie SprayFix",
+        "price": 51,
+        "promoPrice": 39,
+        "inStock": true,
+        "quantity": 21,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.9,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-01-17"
+          }
+        ],
+        "description": "Średnie produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "średnie",
+        "tags": [
+          "szybkoschnące",
+          "do domowego użytku",
+          "eko"
+        ],
+        "addedAt": "2025-02-24",
+        "manufacturer": "3M",
+        "sku": "PAS-0030"
+      },
+      {
+        "_id": 31,
+        "title": "Średnie SprayFix",
+        "price": 96,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 22,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.9,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-03-08"
+          },
+          {
+            "author": "Kasia",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-01-24"
+          },
+          {
+            "author": "Marek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2024-11-30"
+          }
+        ],
+        "description": "Średnie produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "średnie",
+        "tags": [
+          "profesjonalne"
+        ],
+        "addedAt": "2025-03-11",
+        "manufacturer": "Route69",
+        "sku": "PAS-0031"
+      },
+      {
+        "_id": 32,
+        "title": "Średnie 3M",
+        "price": 86,
+        "promoPrice": 76,
+        "inStock": false,
+        "quantity": 19,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-04-23"
+          }
+        ],
+        "description": "Średnie produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "średnie",
+        "tags": [
+          "nowość"
+        ],
+        "addedAt": "2024-11-23",
+        "manufacturer": "ColorX",
+        "sku": "PAS-0032"
+      },
+      {
+        "_id": 33,
+        "title": "Wykończeniowe ProAuto",
+        "price": 192,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 20,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.7,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-04-11"
+          },
+          {
+            "author": "Janek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-01-08"
+          }
+        ],
+        "description": "Wykończeniowe produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "wykończeniowe",
+        "tags": [
+          "matowe",
+          "błyszczące",
+          "szybkoschnące"
+        ],
+        "addedAt": "2025-03-24",
+        "manufacturer": "3M",
+        "sku": "PAS-0033"
+      },
+      {
+        "_id": 34,
+        "title": "Wykończeniowe Route69",
+        "price": 111,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 22,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.4,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-04-09"
+          }
+        ],
+        "description": "Wykończeniowe produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "wykończeniowe",
+        "tags": [
+          "błyszczące",
+          "do domowego użytku"
+        ],
+        "addedAt": "2025-03-20",
+        "manufacturer": "Route69",
+        "sku": "PAS-0034"
+      },
+      {
+        "_id": 35,
+        "title": "Wykończeniowe Route69",
+        "price": 117,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 4,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-04-14"
+          },
+          {
+            "author": "Kasia",
+            "text": "Świetna jakość!",
+            "date": "2025-01-06"
+          }
+        ],
+        "description": "Wykończeniowe produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "wykończeniowe",
+        "tags": [
+          "matowe"
+        ],
+        "addedAt": "2024-11-18",
+        "manufacturer": "Route69",
+        "sku": "PAS-0035"
+      },
+      {
+        "_id": 36,
+        "title": "Wykończeniowe Route69",
+        "price": 163,
+        "promoPrice": 140,
+        "inStock": true,
+        "quantity": 22,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.4,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-01-20"
+          },
+          {
+            "author": "Janek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-18"
+          }
+        ],
+        "description": "Wykończeniowe produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "wykończeniowe",
+        "tags": [
+          "profesjonalne"
+        ],
+        "addedAt": "2024-09-21",
+        "manufacturer": "3M",
+        "sku": "PAS-0036"
+      },
+      {
+        "_id": 37,
+        "title": "Wykończeniowe ColorX",
+        "price": 54,
+        "promoPrice": 32,
+        "inStock": true,
+        "quantity": 14,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.0,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-04-10"
+          }
+        ],
+        "description": "Wykończeniowe produkt kategorii pasty_polerskie.",
+        "image": "/p1.png",
+        "category": "pasty_polerskie",
+        "subcategory": "wykończeniowe",
+        "tags": [
+          "nowość",
+          "profesjonalne",
+          "błyszczące"
+        ],
+        "addedAt": "2025-03-05",
+        "manufacturer": "SprayFix",
+        "sku": "PAS-0037"
+      },
+      {
+        "_id": 38,
+        "title": "Taśmy ProAuto",
+        "price": 94,
+        "promoPrice": 80,
+        "inStock": false,
+        "quantity": 23,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.9,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Świetna jakość!",
+            "date": "2025-03-26"
+          }
+        ],
+        "description": "Taśmy produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "taśmy",
+        "tags": [
+          "błyszczące"
+        ],
+        "addedAt": "2025-01-17",
+        "manufacturer": "ColorX",
+        "sku": "AKC-0038"
+      },
+      {
+        "_id": 39,
+        "title": "Taśmy 3M",
+        "price": 72,
+        "promoPrice": 51,
+        "inStock": false,
+        "quantity": 6,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.7,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Świetna jakość!",
+            "date": "2025-04-04"
+          },
+          {
+            "author": "Kasia",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-22"
+          },
+          {
+            "author": "Kasia",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-28"
+          }
+        ],
+        "description": "Taśmy produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "taśmy",
+        "tags": [
+          "szybkoschnące"
+        ],
+        "addedAt": "2025-01-30",
+        "manufacturer": "SprayFix",
+        "sku": "AKC-0039"
+      },
+      {
+        "_id": 40,
+        "title": "Taśmy ProAuto",
+        "price": 172,
+        "promoPrice": 163,
+        "inStock": true,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-01-08"
+          },
+          {
+            "author": "Ola",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-04-15"
+          }
+        ],
+        "description": "Taśmy produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "taśmy",
+        "tags": [
+          "eko",
+          "błyszczące",
+          "matowe"
+        ],
+        "addedAt": "2024-09-02",
+        "manufacturer": "ProAuto",
+        "sku": "AKC-0040"
+      },
+      {
+        "_id": 41,
+        "title": "Taśmy ProAuto",
+        "price": 68,
+        "promoPrice": 63,
+        "inStock": true,
+        "quantity": 10,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.1,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-01-01"
+          },
+          {
+            "author": "Kasia",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-02-17"
+          }
+        ],
+        "description": "Taśmy produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "taśmy",
+        "tags": [
+          "profesjonalne",
+          "dla warsztatów"
+        ],
+        "addedAt": "2025-02-20",
+        "manufacturer": "SprayFix",
+        "sku": "AKC-0041"
+      },
+      {
+        "_id": 42,
+        "title": "Taśmy ColorX",
+        "price": 177,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 13,
+        "isBanner": true,
+        "isBestseller": false,
+        "rating": 4.9,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-04-04"
+          }
+        ],
+        "description": "Taśmy produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "taśmy",
+        "tags": [
+          "profesjonalne"
+        ],
+        "addedAt": "2025-02-24",
+        "manufacturer": "Route69",
+        "sku": "AKC-0042"
+      },
+      {
+        "_id": 43,
+        "title": "Folie SprayFix",
+        "price": 131,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 18,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.0,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Świetna jakość!",
+            "date": "2024-11-26"
+          },
+          {
+            "author": "Janek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-19"
+          }
+        ],
+        "description": "Folie produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "folie",
+        "tags": [
+          "szybkoschnące",
+          "błyszczące"
+        ],
+        "addedAt": "2024-07-03",
+        "manufacturer": "ColorX",
+        "sku": "AKC-0043"
+      },
+      {
+        "_id": 44,
+        "title": "Folie 3M",
+        "price": 105,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 21,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.3,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-03-18"
+          },
+          {
+            "author": "Marek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-03-08"
+          }
+        ],
+        "description": "Folie produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "folie",
+        "tags": [
+          "nowość",
+          "do domowego użytku",
+          "profesjonalne"
+        ],
+        "addedAt": "2024-07-06",
+        "manufacturer": "Route69",
+        "sku": "AKC-0044"
+      },
+      {
+        "_id": 45,
+        "title": "Folie ColorX",
+        "price": 103,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 17,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.6,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2024-11-29"
+          }
+        ],
+        "description": "Folie produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "folie",
+        "tags": [
+          "szybkoschnące",
+          "nowość"
+        ],
+        "addedAt": "2025-02-18",
+        "manufacturer": "ColorX",
+        "sku": "AKC-0045"
+      },
+      {
+        "_id": 46,
+        "title": "Folie Route69",
+        "price": 41,
+        "promoPrice": 22,
+        "inStock": true,
+        "quantity": 18,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.8,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Świetna jakość!",
+            "date": "2025-04-09"
+          },
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-22"
+          },
+          {
+            "author": "Ola",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-02-10"
+          }
+        ],
+        "description": "Folie produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "folie",
+        "tags": [
+          "błyszczące",
+          "do domowego użytku"
+        ],
+        "addedAt": "2024-05-04",
+        "manufacturer": "3M",
+        "sku": "AKC-0046"
+      },
+      {
+        "_id": 47,
+        "title": "Folie ColorX",
+        "price": 107,
+        "promoPrice": 99,
+        "inStock": true,
+        "quantity": 19,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.9,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-06"
+          },
+          {
+            "author": "Tomek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2024-12-18"
+          },
+          {
+            "author": "Janek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-01-28"
+          }
+        ],
+        "description": "Folie produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "folie",
+        "tags": [
+          "do domowego użytku",
+          "błyszczące"
+        ],
+        "addedAt": "2024-06-17",
+        "manufacturer": "ProAuto",
+        "sku": "AKC-0047"
+      },
+      {
+        "_id": 48,
+        "title": "Kubki Route69",
+        "price": 100,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 22,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.8,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2024-11-21"
+          },
+          {
+            "author": "Marek",
+            "text": "Cena adekwatna do jakości.",
+            "date": "2025-04-22"
+          }
+        ],
+        "description": "Kubki produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "kubki",
+        "tags": [
+          "matowe"
+        ],
+        "addedAt": "2024-12-07",
+        "manufacturer": "Route69",
+        "sku": "AKC-0048"
+      },
+      {
+        "_id": 49,
+        "title": "Kubki ProAuto",
+        "price": 117,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 23,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-03-18"
+          }
+        ],
+        "description": "Kubki produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "kubki",
+        "tags": [
+          "profesjonalne",
+          "dla warsztatów"
+        ],
+        "addedAt": "2024-10-20",
+        "manufacturer": "ProAuto",
+        "sku": "AKC-0049"
+      },
+      {
+        "_id": 50,
+        "title": "Maski ProAuto",
+        "price": 150,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 9,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.8,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Świetna jakość!",
+            "date": "2025-03-04"
+          },
+          {
+            "author": "Ola",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-02-11"
+          }
+        ],
+        "description": "Maski produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "maski",
+        "tags": [
+          "błyszczące",
+          "dla warsztatów"
+        ],
+        "addedAt": "2024-08-15",
+        "manufacturer": "ColorX",
+        "sku": "AKC-0050"
+      },
+      {
+        "_id": 51,
+        "title": "Maski 3M",
+        "price": 57,
+        "promoPrice": 48,
+        "inStock": true,
+        "quantity": 7,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.7,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-01-04"
+          }
+        ],
+        "description": "Maski produkt kategorii akcesoria.",
+        "image": "/p1.png",
+        "category": "akcesoria",
+        "subcategory": "maski",
+        "tags": [
+          "eko",
+          "szybkoschnące"
+        ],
+        "addedAt": "2024-06-14",
+        "manufacturer": "3M",
+        "sku": "AKC-0051"
+      },
+      {
+        "_id": 52,
+        "title": "Rękawice ProAuto",
+        "price": 149,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 11,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Świetna jakość!",
+            "date": "2024-12-17"
+          },
+          {
+            "author": "Ola",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-02-11"
+          },
+          {
+            "author": "Janek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-04-11"
+          }
+        ],
+        "description": "Rękawice produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "rękawice",
+        "tags": [
+          "do domowego użytku",
+          "dla warsztatów"
+        ],
+        "addedAt": "2025-02-23",
+        "manufacturer": "SprayFix",
+        "sku": "BHP-0052"
+      },
+      {
+        "_id": 53,
+        "title": "Rękawice ProAuto",
+        "price": 127,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 11,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Marek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2024-12-31"
+          },
+          {
+            "author": "Janek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-02-17"
+          }
+        ],
+        "description": "Rękawice produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "rękawice",
+        "tags": [
+          "matowe",
+          "do domowego użytku",
+          "nowość"
+        ],
+        "addedAt": "2025-04-11",
+        "manufacturer": "Route69",
+        "sku": "BHP-0053"
+      },
+      {
+        "_id": 54,
+        "title": "Rękawice SprayFix",
+        "price": 57,
+        "promoPrice": 50,
+        "inStock": true,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-01-04"
+          },
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-04-09"
+          }
+        ],
+        "description": "Rękawice produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "rękawice",
+        "tags": [
+          "szybkoschnące",
+          "matowe"
+        ],
+        "addedAt": "2025-02-08",
+        "manufacturer": "ProAuto",
+        "sku": "BHP-0054"
+      },
+      {
+        "_id": 55,
+        "title": "Rękawice SprayFix",
+        "price": 69,
+        "promoPrice": null,
+        "inStock": false,
+        "quantity": 12,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.8,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-12-03"
+          }
+        ],
+        "description": "Rękawice produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "rękawice",
+        "tags": [
+          "matowe"
+        ],
+        "addedAt": "2024-11-18",
+        "manufacturer": "ColorX",
+        "sku": "BHP-0055"
+      },
+      {
+        "_id": 56,
+        "title": "Rękawice ColorX",
+        "price": 161,
+        "promoPrice": 136,
+        "inStock": true,
+        "quantity": 18,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 4.4,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Świetna jakość!",
+            "date": "2025-01-04"
+          },
+          {
+            "author": "Tomek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-12-06"
+          }
+        ],
+        "description": "Rękawice produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "rękawice",
+        "tags": [
+          "błyszczące",
+          "profesjonalne"
+        ],
+        "addedAt": "2024-05-19",
+        "manufacturer": "ColorX",
+        "sku": "BHP-0056"
+      },
+      {
+        "_id": 57,
+        "title": "Maseczki SprayFix",
+        "price": 40,
+        "promoPrice": 27,
+        "inStock": true,
+        "quantity": 24,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.9,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-01-05"
+          },
+          {
+            "author": "Janek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2025-04-09"
+          },
+          {
+            "author": "Tomek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-22"
+          }
+        ],
+        "description": "Maseczki produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "maseczki",
+        "tags": [
+          "nowość",
+          "szybkoschnące"
+        ],
+        "addedAt": "2024-07-04",
+        "manufacturer": "SprayFix",
+        "sku": "BHP-0057"
+      },
+      {
+        "_id": 58,
+        "title": "Maseczki ProAuto",
+        "price": 70,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 5.0,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-11-24"
+          },
+          {
+            "author": "Ola",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2024-12-05"
+          },
+          {
+            "author": "Tomek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-01-24"
+          }
+        ],
+        "description": "Maseczki produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "maseczki",
+        "tags": [
+          "błyszczące",
+          "profesjonalne"
+        ],
+        "addedAt": "2025-03-04",
+        "manufacturer": "Route69",
+        "sku": "BHP-0058"
+      },
+      {
+        "_id": 59,
+        "title": "Maseczki SprayFix",
+        "price": 131,
+        "promoPrice": 107,
+        "inStock": false,
+        "quantity": 5,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.1,
+        "comments": [
+          {
+            "author": "Ola",
+            "text": "Świetna jakość!",
+            "date": "2025-01-02"
+          }
+        ],
+        "description": "Maseczki produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "maseczki",
+        "tags": [
+          "błyszczące"
+        ],
+        "addedAt": "2025-01-22",
+        "manufacturer": "ProAuto",
+        "sku": "BHP-0059"
+      },
+      {
+        "_id": 60,
+        "title": "Maseczki ColorX",
+        "price": 174,
+        "promoPrice": 160,
+        "inStock": true,
+        "quantity": 19,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.5,
+        "comments": [
+          {
+            "author": "Kasia",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-03-31"
+          },
+          {
+            "author": "Marek",
+            "text": "Spełnia oczekiwania.",
+            "date": "2024-11-18"
+          }
+        ],
+        "description": "Maseczki produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "maseczki",
+        "tags": [
+          "szybkoschnące"
+        ],
+        "addedAt": "2024-11-15",
+        "manufacturer": "ProAuto",
+        "sku": "BHP-0060"
+      },
+      {
+        "_id": 61,
+        "title": "Maseczki Route69",
+        "price": 39,
+        "promoPrice": 30,
+        "inStock": true,
+        "quantity": 0,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 3.9,
+        "comments": [
+          {
+            "author": "Janek",
+            "text": "Świetna jakość!",
+            "date": "2025-04-28"
+          },
+          {
+            "author": "Marek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-12-13"
+          }
+        ],
+        "description": "Maseczki produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "maseczki",
+        "tags": [
+          "eko"
+        ],
+        "addedAt": "2024-09-28",
+        "manufacturer": "ColorX",
+        "sku": "BHP-0061"
+      },
+      {
+        "_id": 62,
+        "title": "Okulary ColorX",
+        "price": 135,
+        "promoPrice": null,
+        "inStock": true,
+        "quantity": 10,
+        "isBanner": false,
+        "isBestseller": true,
+        "rating": 3.5,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2025-04-26"
+          },
+          {
+            "author": "Janek",
+            "text": "Świetna jakość!",
+            "date": "2025-04-18"
+          }
+        ],
+        "description": "Okulary produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "okulary",
+        "tags": [
+          "błyszczące",
+          "eko"
+        ],
+        "addedAt": "2024-07-18",
+        "manufacturer": "3M",
+        "sku": "BHP-0062"
+      },
+      {
+        "_id": 63,
+        "title": "Okulary 3M",
+        "price": 56,
+        "promoPrice": 46,
+        "inStock": true,
+        "quantity": 3,
+        "isBanner": false,
+        "isBestseller": false,
+        "rating": 4.2,
+        "comments": [
+          {
+            "author": "Tomek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2024-12-09"
+          },
+          {
+            "author": "Marek",
+            "text": "Polecam każdemu lakiernikowi.",
+            "date": "2024-11-28"
+          },
+          {
+            "author": "Janek",
+            "text": "Bardzo dobra wydajność.",
+            "date": "2025-03-12"
+          }
+        ],
+        "description": "Okulary produkt kategorii bhp.",
+        "image": "/p1.png",
+        "category": "bhp",
+        "subcategory": "okulary",
+        "tags": [
+          "błyszczące",
+          "do domowego użytku"
+        ],
+        "addedAt": "2024-09-11",
+        "manufacturer": "ProAuto",
+        "sku": "BHP-0063"
+      }
+    ]
+  }
